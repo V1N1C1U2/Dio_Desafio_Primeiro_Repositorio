@@ -1,0 +1,7 @@
+                                                    GIT/ GITHUB
+
+ Git é um terminal muito versátil, desde abrir pastas até desenvolver software.
+ o mais impressionante é que ele é relativamente facil de aprender a como usar o programa.
+ Github é uma rede social onde você pode compartilhar projetos desevolvido pelo proprio git, é uma platarforma muito 
+ interessante e sua comunidade é muito empenhada em ajudar o proximo
+ estou embarcando no mundo da programação e a cada passo que eu dou me motiva a aprender cada vez mais.
